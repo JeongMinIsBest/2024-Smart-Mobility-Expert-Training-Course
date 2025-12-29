@@ -1,5 +1,5 @@
 # 🚗 2024 Smart Mobility Expert Training Course
-This repository contains hands-on practice materials from the **2024 Smart Mobility Expert Training Course**, conducted from **January 8 to January 12, 2024**.
+This repository contains hands-on practice materials from the **2024 Smart Mobility Expert Training Course**.
 <br/>
 <br/>
 
