@@ -3,12 +3,12 @@ This repository contains hands-on practice materials from the **2024 Smart Mobil
 <br/>
 <br/>
 
-## 🧪 Training Overview
-🗓 **Training Period**: January 8, 2024 – January 12, 2024 (5 days)
+## 📁 Training Overview
+- **Training Period**: January 8, 2024 – January 12, 2024 (5 days)
 <br/>
 <br/>
 
-## 📘 Training Content
+## 📁 Training Content
 - Fundamentals of **Kotlin programming**
 - **Android application architecture**
 - Utilization of **Google Maps API**
